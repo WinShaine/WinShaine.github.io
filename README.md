@@ -16,14 +16,26 @@
 
 # 💼 Working Experiences
 
+## **2C2P Co.Ltd**
+
+### **System Analyst 3**
+
+2020 Sep - 2023 Dec
+
+**Skills:**
+ Enterprise Architecture · Cloud-Native Architecture · Business Strategy . Financial Technology
+
+- Created and maintained various documentation, including requirements documents, feasibility studies, system design specifications, flowcharts and diagrams, training materials, testing documentation, and disaster recovery plans (DRPs).
+- Conducted thorough analyses of system requirements, examining existing IT systems and business models to identify improvement opportunities.
+
 ## **Make It Work Co.ltd**
 
 ### **Software Development Manager and Business System Consultant**
 
-2020 Sep - 2020 Sep
+2020 Aug - 2023 Aug
 
 **Skills:**
- Enterprise Architecture · Cloud-Native Architecture · Java · Spring Framework · JavaScript · Analytical Skills · Telecommunications Billing · Business Strategy
+ Enterprise Architecture · Cloud-Native Architecture · Java · Spring Framework · JavaScript · Analytical Skills · Telecommunications Billing · Business Strategy 
 
 - Consulted with clients to identify their business support system needs in the telecommunications industry and provided solutions to meet those needs.
 - Developed and implemented new processes and tools to improve business operations in the telecommunications industry.
