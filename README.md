@@ -10,15 +10,10 @@
 
 # 🎓Education
 
-![Assumption_University_of_Thailand_(logo).png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Assumption_University_of_Thailand_(logo).png)
-
-![Untitled](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Untitled.png)
-
 2015-2020 Bachelor of Engineering (Computer Engineering)
 Assumption University Thailand
 
 (Candidate) Master of Business Administration
-
 University of Thai Chamber of Commerce
 
 # 💼 Working Experiences
@@ -49,10 +44,8 @@ University of Thai Chamber of Commerce
 - Wrote and tested code to implement the design and functionality of the Mobile Banking platform.
 
 # ☕ Working on
-
-![java-192x192-1174953.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/java-192x192-1174953.png) |
-![Kotlin Full Color Logo Mark RGB-128x128.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Kotlin_Full_Color_Logo_Mark_RGB-128x128.png) | ![spring-boot.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/spring-boot.png)|![typescript-128x128-1174965.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/typescript-128x128-1174965.png)|![node-js-128x128-1174935.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/node-js-128x128-1174935.png)|![postgresql-128x128-1175122.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/postgresql-128x128-1175122.png)|![tux-128x128-4406751.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/tux-128x128-4406751.png)
+![java-192x192-1174953.png](/assets/img/java-192x192-1174953.png =100x100) ![Kotlin Full Color Logo Mark RGB-128x128.png](/assets/img/Kotlin_Full_Color_Logo_Mark_RGB-128x128.png =100x100) ![spring-boot.png](/assets/img/spring-boot.png =100x100) ![typescript-128x128-1174965.png](/assets/img/typescript-128x128-1174965.png =100x100) ![node-js-128x128-1174935.png](/assets/img/node-js-128x128-1174935.png =100x100) ![postgresql-128x128-1175122.png](/assets/img/postgresql-128x128-1175122.png =100x100) ![tux-128x128-4406751.png](/assets/img/tux-128x128-4406751.png =100x100)
 
 # 📜 Badges
 
-![Untitled](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Untitled%201.png) | ![Untitled](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Untitled%202.png)
+![Untitled](/assets/img/Untitled%201.png =100x100)  ![Untitled](/assets/img/Untitled%202.png =100x100)
