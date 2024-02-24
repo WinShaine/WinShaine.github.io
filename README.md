@@ -48,4 +48,4 @@ University of Thai Chamber of Commerce
 
 # 📜 Badges
 
-![IBMDesgin](./img/Untitled%201.png =100x100)  ![IBMReactive](./img/img/Untitled%202.png =100x100)
+![IBMDesgin](/img/Untitled%201.png =100x100)  ![IBMReactive](/img/Untitled%202.png =100x100)
