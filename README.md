@@ -50,22 +50,9 @@ University of Thai Chamber of Commerce
 
 # ☕ Working on
 
-![java-192x192-1174953.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/java-192x192-1174953.png)
-
-![Kotlin Full Color Logo Mark RGB-128x128.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Kotlin_Full_Color_Logo_Mark_RGB-128x128.png)
-
-![spring-boot.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/spring-boot.png)
-
-![typescript-128x128-1174965.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/typescript-128x128-1174965.png)
-
-![node-js-128x128-1174935.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/node-js-128x128-1174935.png)
-
-![postgresql-128x128-1175122.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/postgresql-128x128-1175122.png)
-
-![tux-128x128-4406751.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/tux-128x128-4406751.png)
+![java-192x192-1174953.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/java-192x192-1174953.png) |
+![Kotlin Full Color Logo Mark RGB-128x128.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Kotlin_Full_Color_Logo_Mark_RGB-128x128.png) | ![spring-boot.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/spring-boot.png)|![typescript-128x128-1174965.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/typescript-128x128-1174965.png)|![node-js-128x128-1174935.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/node-js-128x128-1174935.png)|![postgresql-128x128-1175122.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/postgresql-128x128-1175122.png)|![tux-128x128-4406751.png](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/tux-128x128-4406751.png)
 
 # 📜 Badges
 
-![Untitled](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Untitled%201.png)
-
-![Untitled](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Untitled%202.png)
+![Untitled](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Untitled%201.png) | ![Untitled](Hi%20There!%20I%E2%80%99m%20%E2%80%98Win%E2%80%99%F0%9F%91%8B%20(1)%207b6e1a5c158e4ab4a5233b4283da5000/Untitled%202.png)
