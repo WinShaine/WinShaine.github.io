@@ -1,6 +1,6 @@
 # Hi There! I’m ‘Win’👋
 
-### Experienced software engineer with a focus on the Telecom Billing Industry. Skilled in Database Management, Unix Environment, Cloud Application Architectures, Project Management and Business Requirement Analysis. Specializes in Business Support Systems, Cloud Monetization Platforms, and Telecommunication Charging Systems. Holds a Bachelor of Engineering (BE) degree in Computer Engineering from Assumption University Thailand.
+### Experienced software engineer with a focus on Software Development, Business Strtegy and Analysis. Skilled in Database Management, Unix Environment, Cloud Application Architectures, Project Management and Business Requirement Analysis. Specializes in Business Support Systems, Cloud Monetization Platforms, and Telecommunication Charging Systems. Holds a Bachelor of Engineering (BE) degree in Computer Engineering from Assumption University Thailand.
 
 ## 📬 Reach me on
 
