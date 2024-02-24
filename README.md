@@ -10,11 +10,9 @@
 
 # 🎓Education
 
-2015-2020 Bachelor of Engineering (Computer Engineering)
-Assumption University Thailand
+2015-2020 Bachelor of Engineering (Computer Engineering) @ Assumption University Thailand
 
-(Candidate) Master of Business Administration
-University of Thai Chamber of Commerce
+(Candidate) Master of Business Administration @ University of Thai Chamber of Commerce
 
 # 💼 Working Experiences
 
