@@ -44,8 +44,8 @@ University of Thai Chamber of Commerce
 - Wrote and tested code to implement the design and functionality of the Mobile Banking platform.
 
 # ☕ Working on
-![java-192x192-1174953.png](assets/img/java-192x192-1174953.png =100x100) ![Kotlin Full Color Logo Mark RGB-128x128.png](assets/img/Kotlin_Full_Color_Logo_Mark_RGB-128x128.png =100x100) ![spring-boot.png](assets/img/spring-boot.png =100x100) ![typescript-128x128-1174965.png](assets/img/typescript-128x128-1174965.png =100x100) ![node-js-128x128-1174935.png](assets/img/node-js-128x128-1174935.png =100x100) ![postgresql-128x128-1175122.png](assets/img/postgresql-128x128-1175122.png =100x100) ![tux-128x128-4406751.png](assets/img/tux-128x128-4406751.png =100x100)
+![java-192x192-1174953.png](img/java-192x192-1174953.png =100x100) ![Kotlin Full Color Logo Mark RGB-128x128.png](img/Kotlin_Full_Color_Logo_Mark_RGB-128x128.png =100x100) ![spring-boot.png](img/spring-boot.png =100x100) ![typescript-128x128-1174965.png](img/typescript-128x128-1174965.png =100x100) ![node-js-128x128-1174935.png](img/node-js-128x128-1174935.png =100x100) ![postgresql-128x128-1175122.png](img/postgresql-128x128-1175122.png =100x100) ![tux-128x128-4406751.png](img/tux-128x128-4406751.png =100x100)
 
 # 📜 Badges
 
-![IBMDesgin](assets/img/Untitled%201.png =100x100)  ![IBMReactive](assets/img/Untitled%202.png =100x100)
+![IBMDesgin](img/Untitled%201.png =100x100)  ![IBMReactive](img/Untitled%202.png =100x100)
